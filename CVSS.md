@@ -1,5 +1,6 @@
 # CVSS Overview
 
+
 - **Range**: 0.0 to 10.0
 - **Severity mapping**:
   - Low: 0.1–3.9
