@@ -1,5 +1,6 @@
 # Common Remediation Steps
 
+
 1. **Apply OS patches**
    - Windows: Settings → Update & Security → Check for updates → Install.
    - Debian/Ubuntu: `sudo apt update && sudo apt upgrade -y`
